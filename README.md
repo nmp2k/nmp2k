@@ -32,3 +32,5 @@
 ## 👉 interesting projects
 
 1 - [cookie extension](https://github.com/nmp2k/edit-cookie-extension)
+
+1 - [nginx + api service](https://github.com/nmp2k/nginx-node-backend)
