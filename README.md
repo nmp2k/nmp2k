@@ -29,8 +29,10 @@
 
 2 - [PostMan useful feature](https://github.com/nmp2k/notebook/tree/master/postman)
 
+3 - [server run on internal network ](https://github.com/nmp2k/notebook/tree/master/internal-network)
+
 ## 👉 interesting projects
 
 1 - [cookie extension](https://github.com/nmp2k/edit-cookie-extension)
 
-1 - [nginx + api service](https://github.com/nmp2k/nginx-node-backend)
+2 - [nginx + api service](https://github.com/nmp2k/nginx-node-backend)
