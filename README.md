@@ -36,3 +36,9 @@
 1 - [cookie extension](https://github.com/nmp2k/edit-cookie-extension)
 
 2 - [nginx + api service](https://github.com/nmp2k/nginx-node-backend)
+
+## 👉 reactJs projects
+
+1 - [tic tac toe game](https://github.com/nmp2k/react-tik-tak-toe)
+
+
