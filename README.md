@@ -41,4 +41,8 @@
 
 1 - [tic tac toe game](https://github.com/nmp2k/react-tik-tak-toe)
 
+## 👉 graphQl-rest-React-Next-Nest ecommerce - (took on & continue development)
+
+1 - [research & build document for old version nextJs](https://github.com/nmp2k/nextJs-v13.5.6-doc)
+
 
