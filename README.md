@@ -40,6 +40,7 @@
 ## 👉 reactJs & nexJs research
 
 1 - [tic tac toe game](https://github.com/nmp2k/react-tik-tak-toe)
+
 2- [nextjs: client component 1st render on server & context api work](https://github.com/nmp2k/nextjs-ccp-context-api-actually-work)
 
 ## 👉 graphQl-rest-React-Next-Nest ecommerce - (took on & continue development)
