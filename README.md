@@ -37,13 +37,13 @@
 
 2 - [nginx + api service](https://github.com/nmp2k/nginx-node-backend)
 
-## 👉 reactJs & nexJs research
+## 👉 reactJs & nexJs
 
 1 - [tic tac toe game](https://github.com/nmp2k/react-tik-tak-toe)
 
 2- [nextjs: client component 1st render on server & context api work](https://github.com/nmp2k/nextjs-ccp-context-api-actually-work)
 
-## 👉 graphQl-rest-React-Next-Nest ecommerce - (took on & continue development)
+## 👉 graphQl-rest-React-Next-Nest ecommerce
 
 1 - [research & build document for old version nextJs](https://github.com/nmp2k/nextJs-v13.5.6-doc)
 
