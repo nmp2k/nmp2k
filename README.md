@@ -31,6 +31,8 @@
 
 3 - [server run on internal network ](https://github.com/nmp2k/notebook/tree/master/internal-network)
 
+4 - [request compression ](https://github.com/nmp2k/why-need-compression)
+
 ## 👉 interesting projects
 
 1 - [cookie extension](https://github.com/nmp2k/edit-cookie-extension)
