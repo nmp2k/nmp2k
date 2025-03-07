@@ -25,7 +25,7 @@
 
 ## 👉 Series NoteBook
 
-1 - [Git setup](https://github.com/nmp2k/notebook/tree/master/git)
+1 - [Git info & setup](https://github.com/nmp2k/notebook/tree/master/git)
 
 2 - [PostMan useful feature](https://github.com/nmp2k/notebook/tree/master/postman)
 
